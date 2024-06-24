@@ -1,0 +1,6 @@
+https://static.data.gouv.fr/resources/catalogue-des-donnees-de-data-gouv-fr/20240624-055207/export-resource-20240624-055207.csv
+https://static.data.gouv.fr/resources/catalogue-des-donnees-de-data-gouv-fr/20240624-055752/export-organization-20240624-055752.csv
+https://static.data.gouv.fr/resources/catalogue-des-donnees-de-data-gouv-fr/20240624-055433/export-discussion-20240624-055433.csv
+https://static.data.gouv.fr/resources/catalogue-des-donnees-de-data-gouv-fr/20240624-055831/export-reuse-20240624-055831.csv
+https://static.data.gouv.fr/resources/catalogue-des-donnees-de-data-gouv-fr/20240624-055834/export-harvest-20240624-055834.csv
+https://static.data.gouv.fr/resources/catalogue-des-donnees-de-data-gouv-fr/20240624-055833/export-tag-20240624-055833.csv
